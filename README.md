@@ -29,5 +29,6 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/kaveesha-kalhara-wedagedara/]
+- 📧 **Email:** [kaveeshavta2026@gmail.com]
 
