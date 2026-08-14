@@ -1,6 +1,16 @@
 # Hi there, I'm Kaveesha Kalhara Wedagedara 👋
+*(aka **@tefaezio**)*
 
-> **Computer Hardware & Network Technician | Tech Enthusiast | AI & Automation Hobbyist**
+> **Computer Hardware & Network Technician | Tech Enthusiast | AI & Automation**
+
+---
+
+### 👤 About Me
+- 📍 **Location:** Kurunegala, Sri Lanka
+- 🎓 **Education:** Wayamba Royal College
+- 🎓 **Vocational Training:** NVQ Level 4 in Computer Hardware & Network Technology at Vocational Training Authority (VTA), Sri Lanka
+- 🎂 **Age:** 21 *(Born in 2005)*
+- 🌐 **Online Handle:** `@tefaezio`
 
 ---
 
@@ -29,6 +39,6 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/kaveesha-kalhara-wedagedara/]
-- 📧 **Email:** [kaveeshavta2026@gmail.com]
-
+- 💼 **LinkedIn:** [linkedin.com/in/kaveesha-kalhara-wedagedara](https://www.linkedin.com/in/kaveesha-kalhara-wedagedara/)
+- 📧 **Email:** kaveeshavta2026@gmail.com
+- 🏷️ **Username / Handles:** `@tefaezio`
